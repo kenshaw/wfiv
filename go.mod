@@ -6,7 +6,7 @@ require (
 	github.com/gobwas/glob v0.2.3
 	github.com/kenshaw/colors v0.2.1
 	github.com/kenshaw/diskcache v0.9.1
-	github.com/kenshaw/fontimg v0.1.2
+	github.com/kenshaw/fontimg v0.2.0
 	github.com/kenshaw/httplog v0.5.1
 	github.com/kenshaw/rasterm v0.1.13
 	github.com/kenshaw/webfonts v0.4.0
