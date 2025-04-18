@@ -140,7 +140,7 @@ func showFonts(w io.Writer, args *Args) func(context.Context, []string) error {
 func (args *Args) init() error {
 	// args.ctx = ctx
 	if args.Key == "" {
-		return errors.New("must provide -key")
+		return errors.New("missing --key")
 	}
 	// set verbose logger
 	if args.Verbose {
